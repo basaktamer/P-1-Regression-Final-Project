@@ -1,0 +1,18 @@
+# --- Core Data Science ---
+pandas
+numpy
+matplotlib
+seaborn
+
+# --- Machine Learning ---
+scikit-learn
+joblib
+catboost
+yellowbrick
+
+# --- Deep Learning ---
+tensorflow
+scikeras
+
+# --- Deployment ---
+streamlit
